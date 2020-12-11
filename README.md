@@ -1,2 +1,2 @@
 # Git
-MG
+My repository
